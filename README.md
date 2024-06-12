@@ -1,2 +1,2 @@
 <h1>Automated Booking Search Bot</h1>
-<p>Đây là công cụ được dựa theo ý tưởng từ <a herf="https://www.youtube.com/@jimshapedcoding"></a></p>
+<p>Đây là công cụ được dựa theo ý tưởng từ <a href="https://www.youtube.com/@jimshapedcoding">JimShapedCoding</a> nhưng video đã ra được khá lâu về trước khi đó trang web còn sử dụng id cố định cho việc phát triển, nhưng bây giờ đã được thay đổi bằng những id ngẫu nhiên được sinh ra, nên việc áp dụng code cũ là không thể, cho nên đây là chương trình mới đã được điều chỉnh để phù hợp với tình huống hiện tại</p> 
